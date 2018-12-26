@@ -1,2 +1,4 @@
 # Mi_ORB
-Attempt to implement the ORB algorithm to find similar images
+# АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
+***Домашняя работа на тему: «Реализация алгоритма для поиска похожих изображений»***
+Вариант 24
